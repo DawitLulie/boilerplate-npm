@@ -1,7 +1,12 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"version": "1.0.0",
+	"description": "A FreeCodeCamp project to learn npm package.json management",
+	"author": "Dawit Lulie",
+  "license": "MIT",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"@freecodecamp/example": "^1.2.13"
 	},
 	"main": "server.js",
 	"scripts": {
